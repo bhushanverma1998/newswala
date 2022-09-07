@@ -1,0 +1,9 @@
+.news-heading:hover{
+    transform: scale(1.05);
+    transition: all .3s ease-in;
+}
+
+.news-heading{
+    margin:20px 0;
+    text-shadow: 3px 3px 5px rgb(168, 168, 168);
+}

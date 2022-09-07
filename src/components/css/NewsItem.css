@@ -1,0 +1,8 @@
+.badge-info{
+    z-index: 1;
+    left: 50% !important;
+}
+
+.badge-info span{
+    font-size: larger;
+}
